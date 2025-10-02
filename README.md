@@ -1,16 +1,16 @@
 ## Hi there 👋
+# 👋 Hello World!
 
-<!--
-**ShenanMumbi/ShenanMumbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 What I Do
+- Full-stack developer
+- Open source contributor
+- Tech blogger
 
-Here are some ideas to get you started:
+## 💼 Projects
+- [Project 1](link) - Description
+- [Project 2](link) - Description
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shenanmumbi&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shenanmumbi&layout=compact)
+
